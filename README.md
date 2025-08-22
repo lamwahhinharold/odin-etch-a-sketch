@@ -7,3 +7,5 @@ This project is aimed at building a browser version of something between a sketc
 ## Live Demo
 
 [Live Site](https://lamwahhinharold.github.io/odin-etch-a-sketch/)
+
+![Screenshot](./images/screenshot.png)
