@@ -28,8 +28,5 @@ body {
   border: 1px solid black;
   flex: 1 0 calc(100% / var(--grid-size));
   aspect-ratio: 1;
-}
-
-.colored {
-  background-color: black;
+  background-color: var(--square-color, white);
 }
