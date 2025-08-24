@@ -1,5 +1,5 @@
-const container = document.querySelector("#container");
-const button = document.querySelector("#btn");
+const container = document.querySelector(".container");
+const button = document.querySelector(".btn");
 
 function createSquareDivs(gridSize) {
   container.replaceChildren();
